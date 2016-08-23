@@ -8,7 +8,7 @@ include("db.php");
             <meta http-equiv="Pragma" content="no-cache">
             <meta http-equiv="Cache-Control" content="no-cache">
             <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-            <title>ثبت نام خوابگاه</title>
+            <title>register</title>
             <link rel="stylesheet" type="text/css" href="style.css">
         </head>
         <body > 
