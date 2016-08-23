@@ -2,7 +2,6 @@
   include ("db.php");
    if(!$_SESSION['username'])
    {
-       echo 1111111;	
 	   //header('location: index.php');
         //exit();
     }
@@ -10,7 +9,7 @@
 <?php
     $_SESSION['username'] = false;
     echo 
-        '
+        '<--git-->
             <!DOCTYPE html>
                 <html>
                     <head>
